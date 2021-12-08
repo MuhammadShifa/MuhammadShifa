@@ -5,8 +5,6 @@ I am currently working at [SlimLogix](https://slimlogix.com/) as a **software en
 vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
 I'm here to solve things, Learning a lot in the Process.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MuhammadShifa)
-
 ### Updates
 - 🔭 I’m currently working on some of my side learning projects related to Computer Vision.
 - 💻 I’m currently working on Python (AI+DS Stack), and Flask consulting for BI solutions.
