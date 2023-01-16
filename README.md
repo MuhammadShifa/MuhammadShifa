@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Muhammad Shifa
 
 
-I am currently working at [SlimLogix](https://slimlogix.com/) as a **software engineer**  (AI and Data Scientist) - Research and developing end-to-end computer 
+I am currently working at [Machine Learnin 1 (Private) Limited](https://ml1.ai/) as a **software engineer**  (AI and Data Scientist) - Research and developing end-to-end computer 
 vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
 I'm here to solve things, Learning a lot in the Process.
 
