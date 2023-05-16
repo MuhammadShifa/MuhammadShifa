@@ -1,16 +1,15 @@
 ### Hi there 👋 This is Muhammad Shifa
 
 
-I am currently working at [Machine Learnin 1 (Private) Limited](https://ml1.ai/) as a **software engineer**  (AI and Data Scientist) - Research and developing end-to-end computer 
-vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
+I am currently working at [Nuwatt Technologies](https://nuwatt.tech/#) as a **Machine Learning Engineer** - Research and developing end-to-end computer vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
 I'm here to solve things, Learning a lot in the Process.
 
 ### Updates
 - 🔭 I’m currently working on some of my side learning projects related to Computer Vision.
 - 💻 I’m currently working on Python (AI+DS Stack), and Flask consulting for BI solutions.
 - 🌱 I’m currently learning everything about Docker, MLOps and DevOps. 
-- 💪🏼 Goals: Keep building intelligent solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 - 👯 I’m looking to collaborate on Data Science, Computer Vision, Machine Learning and Deep Learning.
+- -💪🏼 Goals: Keep building intelligent solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 - ⚡ Fun fact **I love Programming and a Cup of Tea**
 
 ### Find me around:
