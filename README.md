@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Muhammad Shifa
 
 
-I am currently working at [Nuwatt Technologies](https://nuwatt.tech/#) as a **Machine Learning Engineer** - Research and developing end-to-end computer vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
+I am currently working at [Nuwatt Technovation](https://nuwatt.tech/#) as a **Machine Learning Engineer** - Research and developing end-to-end computer vision-based AI Products. I am an enthusiastic individual with a strategic mindest towards Artificial Intelligence, Data Science, Computer Vision, Machine Learning and Deep Learning.
 I'm here to solve things, Learning a lot in the Process.
 
 ### Updates
